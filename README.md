@@ -1,2 +1,2 @@
-# E-school
+
 # School-project
